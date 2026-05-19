@@ -194,4 +194,8 @@ void vApplicationGetTimerTaskMemory(
     *ppxTimerTaskStackBuffer = timerStack;
     *pulTimerTaskStackSize = configTIMER_TASK_STACK_DEPTH;
 }
+<<<<<<< HEAD
 #endif
+=======
+#endif
+>>>>>>> 2353d8e (Restructured project folders: organized src and docs properly)

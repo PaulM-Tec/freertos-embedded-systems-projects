@@ -420,4 +420,8 @@ void vApplicationGetTimerTaskMemory(StaticTask_t** ppxTimerTaskTCBBuffer,
     *ppxTimerTaskStackBuffer = uxTimerTaskStack;
     *pulTimerTaskStackSize = (uint32_t)configTIMER_TASK_STACK_DEPTH;
 }
+<<<<<<< HEAD
 #endif /* configSUPPORT_STATIC_ALLOCATION */
+=======
+#endif /* configSUPPORT_STATIC_ALLOCATION */
+>>>>>>> 2353d8e (Restructured project folders: organized src and docs properly)

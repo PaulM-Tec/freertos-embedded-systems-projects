@@ -46,28 +46,6 @@ A multitasking embedded system for monitoring environmental conditions.
 
 ---
 
-### Industrial Temperature Control (Q3)
-*To be added*
-
-Focus:
-- Real-time constraints
-- Safety-critical design
-- Reliability and fault tolerance
-- Industrial embedded systems
-
----
-
-### Smart Home Security System (Q4)
-*To be added*
-
-Focus:
-- Authentication mechanisms (MFA, device authentication)
-- Data encryption (AES, TLS)
-- Secure system architecture
-- Embedded security design
-
----
-
 ## Skills Demonstrated
 - FreeRTOS (tasks, scheduling, synchronization)
 - Real-time embedded system design

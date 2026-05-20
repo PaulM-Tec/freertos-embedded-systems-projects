@@ -1,11 +1,13 @@
 # FreeRTOS Embedded Systems Projects
 
-![Repo Size](https://img.shields.io/github/repo-size/PaulM-Tec/freertos-embedded-systems-projects)
-![Last Commit](https://img.shields.io/github/last-commit/PaulM-Tec/freertos-embedded-systems-projects)
-![License](https://img.shields.io/badge/license-Academic-blue)
-![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS-green)
-![Language](https://img.shields.io/badge/language-C-blue)
-![Domain](https://img.shields.io/badge/domain-EmbeddedSystems-orange)
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/PaulM-Tec/freertos-embedded-systems-projects?style=for-the-badge%22 />
+  <img src="https://img.shields.io/badge/RTOS-FreeRTOS-green?style=for-the-badge&logo=freertos" />
+  <img src="https://img.shields.io/badge/language-C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/domain-EmbeddedSystems-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/type-RealTimeSystems-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/concurrency-Multithreading-purple?style=for-the-badge" />
+</p>
 
 ## Overview
 This repository contains a collection of embedded systems projects developed using **FreeRTOS and C** as part of an Honours-level Embedded Systems Software Development module.

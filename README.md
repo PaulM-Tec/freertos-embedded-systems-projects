@@ -101,3 +101,16 @@ View project: [Traffic Light System](traffic-light-systems/)
 A multi-tasking embedded system for monitoring environmental conditions in real time.
  
 View project: [Weather Station System](weather-station-system/)
+
+---
+
+## Code Highlights
+ 
+This repository focuses on practical embedded systems implementation using FreeRTOS:
+ 
+- Real-time task scheduling and execution
+- Concurrent task management
+- Synchronization using mutexes and semaphores
+- Event-driven system behaviour
+- File-based logging systems
+- Simulation using WIN32 FreeRTOS environment

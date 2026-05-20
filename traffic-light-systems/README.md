@@ -57,3 +57,8 @@ When an emergency is detected:
 - Pedestrian signals are disabled
 - System resumes normal flow after emergency clears
 
+---
+
+## Enhancement 
+
+Improved logging explanation and system description

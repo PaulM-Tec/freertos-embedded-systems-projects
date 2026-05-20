@@ -85,3 +85,19 @@ BSc Honours in Information Technology (Software Engineering)
 
 ## License
 This project is for academic and portfolio purposes.
+
+---
+
+## Projects
+ 
+### Traffic Light Control System
+A real-time embedded system that controls traffic flow using FreeRTOS.
+ 
+View project: [Traffic Light System](traffic-light-systems/)
+ 
+---
+ 
+### Weather Station System
+A multi-tasking embedded system for monitoring environmental conditions in real time.
+ 
+View project: [Weather Station System](weather-station-system/)

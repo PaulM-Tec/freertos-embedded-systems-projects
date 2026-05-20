@@ -139,3 +139,8 @@ This repository demonstrates the ability to:
 - Build scalable and reliable embedded applications
  
 These are essential skills for modern software and embedded systems engineering.
+
+---
+
+## Minor Update
+Refined README using Git branching workflow.
